@@ -1,0 +1,9 @@
+# Build artifacts
+*.exe
+*.o
+*.elf
+*.bin
+
+# Editor / OS
+.vscode/
+.DS_Store
